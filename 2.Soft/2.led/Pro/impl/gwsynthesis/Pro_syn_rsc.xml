@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led_light" Register="26" Lut="61" T_Register="389(26)" T_Alu="15(0)" T_Lut="524(61)" T_Bsram="8(0)">
+    <SubModule name="gw_gao_inst_0" Register="363" Alu="15" Lut="463" Bsram="8" T_Register="363(363)" T_Alu="15(15)" T_Lut="463(463)" T_Bsram="8(8)"/>
+</Module>

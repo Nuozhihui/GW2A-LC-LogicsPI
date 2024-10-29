@@ -1,0 +1,18 @@
+-d C:\Users\as\Desktop\Gowin_DDR3_Memory_Interface_RefDesign\DDR3_MC_PHY_1vs2\project\impl\gwsynthesis\ddr3_ref_design.vg
+-p GW2A-18-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst C:\Users\as\Desktop\Gowin_DDR3_Memory_Interface_RefDesign\DDR3_MC_PHY_1vs2\project\src\ddr3.cst
+-cfg C:\Users\as\Desktop\Gowin_DDR3_Memory_Interface_RefDesign\DDR3_MC_PHY_1vs2\project\impl\pnr\device.cfg
+-sdc C:\Users\as\Desktop\Gowin_DDR3_Memory_Interface_RefDesign\DDR3_MC_PHY_1vs2\project\src\ddr3.sdc
+-gao_crc 0111111000000111
+-bit
+-tr
+-ph
+-o
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
+-rtl_gao

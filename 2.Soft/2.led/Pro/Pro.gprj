@@ -1,0 +1,14 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2A-18C" pn="GW2A-LV18PG256C8/I7">gw2a18c-011</Device>
+    <FileList>
+        <File path="src/Template_Nuo.v" type="file.verilog" enable="1"/>
+        <File path="F:/FPGA/GW2A-LC-LogicsPI/2.Soft/0.Template/Sim/Template_Sim.v" type="file.verilog" enable="0"/>
+        <File path="src/Pro.cst" type="file.cst" enable="1"/>
+        <File path="src/Pro.sdc" type="file.sdc" enable="1"/>
+        <File path="src/Template_GAO.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>

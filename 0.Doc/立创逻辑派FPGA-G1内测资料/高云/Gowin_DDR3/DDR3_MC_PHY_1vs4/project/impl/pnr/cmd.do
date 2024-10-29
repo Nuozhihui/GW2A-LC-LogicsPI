@@ -1,0 +1,15 @@
+-d F:\FPGA\GW2A-LC-LogicsPI\0.Doc\立创逻辑派FPGA-G1内测资料\高云\Gowin_DDR3\DDR3_MC_PHY_1vs4\project\impl\gwsynthesis\ddr3_1v4_hs.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst F:\FPGA\GW2A-LC-LogicsPI\0.Doc\立创逻辑派FPGA-G1内测资料\高云\Gowin_DDR3\DDR3_MC_PHY_1vs4\project\src\ddr3_1v4_hs.cst
+-cfg F:\FPGA\GW2A-LC-LogicsPI\0.Doc\立创逻辑派FPGA-G1内测资料\高云\Gowin_DDR3\DDR3_MC_PHY_1vs4\project\impl\pnr\device.cfg
+-sdc F:\FPGA\GW2A-LC-LogicsPI\0.Doc\立创逻辑派FPGA-G1内测资料\高云\Gowin_DDR3\DDR3_MC_PHY_1vs4\project\src\ddr3_1v4_hs.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
