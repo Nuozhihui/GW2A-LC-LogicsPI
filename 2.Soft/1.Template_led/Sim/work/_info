@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/APP_Data/Code/modeltech64_2020.4
+T_opt
+!s110 1730215499
+V6iHDkEo9knOJjio2cz=TQ3
+04 7 4 work led_mod fast 0
+=1-cc28aa3827b7-6720fe4a-2fa-4870
+o-quiet -auto_acc_if_foreign -work work -L GW2A -Lf GW2A +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vled
+Z1 !s110 1730215395
+!i10b 1
+!s100 ;=1=BM4?aG5oEM40a21;63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKW]BlKAie^^N3DJGH:[Q72
+Z3 dF:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim
+w1730214721
+8F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v
+FF:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v
+!i122 1
+L0 1 30
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1730215395.000000
+!s107 F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vled_mod
+R1
+!i10b 1
+!s100 E^_Q[V`XD;oZn9J==T<PG2
+R2
+IT0k`JKU148IM:MJ_dKF7a2
+R3
+w1730215329
+8F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v
+FF:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v
+!i122 0
+L0 4 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v|
+!i113 0
+R7
+R0

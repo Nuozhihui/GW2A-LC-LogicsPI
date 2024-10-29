@@ -1,0 +1,15 @@
+F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v {1 {vlog -work work -vopt -stats=none F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led_mod.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module led_mod
+
+Top level modules:
+	led_mod
+
+} {} {}} F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v {1 {vlog -work work -vopt -stats=none F:/FPGA/GW2A-LC-LogicsPI/2.Soft/1.Template_led/Sim/led.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module led
+
+Top level modules:
+	led
+
+} {} {}}
