@@ -1,0 +1,17 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/2.Soft/3.PWM/Pro/src/Template_Nuo.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/2.Soft/3.PWM/Pro/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

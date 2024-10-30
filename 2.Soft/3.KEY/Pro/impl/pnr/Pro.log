@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\gwsynthesis\Pro.vg"
+Parsing netlist file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\gwsynthesis\Pro.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\src\Pro.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\pnr\Pro.power.html" completed
+Generate file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\pnr\Pro.pin.html" completed
+Generate file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\pnr\Pro.rpt.html" completed
+Generate file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\pnr\Pro.rpt.txt" completed
+Generate file "C:\Users\zh\Desktop\Project_ZH\9.GW2A-LC-LogicsPI\2.Soft\3.KEY\Pro\impl\pnr\Pro.tr.html" completed
+Wed Oct 30 13:23:36 2024
+

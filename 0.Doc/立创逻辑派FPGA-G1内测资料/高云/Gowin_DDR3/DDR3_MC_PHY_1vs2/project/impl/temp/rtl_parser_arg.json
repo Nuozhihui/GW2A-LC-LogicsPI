@@ -2,19 +2,19 @@
  "Device" : "GW2A-18",
  "Files" : [
   {
-   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs2/project/src/DDR3_test.v",
+   "Path" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/\u7acb\u521b\u903b\u8f91\u6d3eFPGA-G1\u5185\u6d4b\u8d44\u6599/\u9ad8\u4e91/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/DDR3_test.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs2/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+   "Path" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/\u7acb\u521b\u903b\u8f91\u6d3eFPGA-G1\u5185\u6d4b\u8d44\u6599/\u9ad8\u4e91/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+   "Path" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/\u7acb\u521b\u903b\u8f91\u6d3eFPGA-G1\u5185\u6d4b\u8d44\u6599/\u9ad8\u4e91/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs2/project/src/gowin_rpll/gowin_rpll.v",
+   "Path" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/\u7acb\u521b\u903b\u8f91\u6d3eFPGA-G1\u5185\u6d4b\u8d44\u6599/\u9ad8\u4e91/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/gowin_rpll/gowin_rpll.v",
    "Type" : "verilog"
   }
  ],
@@ -22,7 +22,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs2/project/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/\u7acb\u521b\u903b\u8f91\u6d3eFPGA-G1\u5185\u6d4b\u8d44\u6599/\u9ad8\u4e91/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/impl/temp/rtl_parser.result",
  "Top" : "ddr3_syn_top",
  "VerilogStd" : "sysv",
  "VhdlStd" : "vhdl_93"

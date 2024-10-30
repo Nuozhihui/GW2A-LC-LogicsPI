@@ -1,0 +1,54 @@
+[
+ {
+  "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/button.v",
+  "InstLine" : 1,
+  "InstName" : "button",
+  "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/button.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "button"
+ },
+ {
+  "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+    "InstLine" : 102,
+    "InstName" : "upll",
+    "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+    "InstLine" : 116,
+    "InstName" : "u_rd",
+    "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddrtest.v",
+    "ModuleLine" : 25,
+    "ModuleName" : "ddr3_test1"
+   },
+   {
+    "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+    "InstLine" : 137,
+    "InstName" : "u_ddr3",
+    "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+    "ModuleLine" : 19701,
+    "ModuleName" : "DDR3_Memory_Interface_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+      "InstLine" : 19784,
+      "InstName" : "gw3_top",
+      "ModuleFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~GW_DDR3_PHY_MC.DDR3_Memory_Interface_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

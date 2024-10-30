@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+  "InstLine" : 3,
+  "InstName" : "ddr3_syn_top",
+  "ModuleFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "ddr3_syn_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+    "InstLine" : 83,
+    "InstName" : "u_rd",
+    "ModuleFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/DDR3_test.v",
+    "ModuleLine" : 4,
+    "ModuleName" : "DDR3_test"
+   },
+   {
+    "InstFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+    "InstLine" : 104,
+    "InstName" : "pll",
+    "ModuleFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_syn_top.v",
+    "InstLine" : 111,
+    "InstName" : "u_ddr3",
+    "ModuleFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+    "ModuleLine" : 9037,
+    "ModuleName" : "DDR3_Memory_Interface_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+      "InstLine" : 9120,
+      "InstName" : "u_gw3_phy_mc",
+      "ModuleFile" : "C:/Users/zh/Desktop/Project_ZH/9.GW2A-LC-LogicsPI/0.Doc/Gowin_DDR3/DDR3_MC_PHY_1vs2/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~gw3_phy_mc.DDR3_Memory_Interface_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

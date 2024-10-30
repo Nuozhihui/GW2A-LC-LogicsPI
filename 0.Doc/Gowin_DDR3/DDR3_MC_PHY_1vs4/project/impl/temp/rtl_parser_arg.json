@@ -1,0 +1,33 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/button.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddr3_memory_interface/ddr3_memory_interface.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/ddrtest.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/as/Desktop/Gowin_DDR3_Memory_Interface_RefDesign/DDR3_MC_PHY_1vs4/project/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

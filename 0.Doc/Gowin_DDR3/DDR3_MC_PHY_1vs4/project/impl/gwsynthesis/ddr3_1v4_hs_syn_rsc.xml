@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="33" Lut="83" T_Register="4049(33)" T_Alu="244(0)" T_Lut="2512(83)" T_Bsram="4(0)" T_Ssram="137(0)">
+    <SubModule name="upll"/>
+    <SubModule name="u_rd" Register="398" Alu="120" Lut="292" T_Register="398(398)" T_Alu="120(120)" T_Lut="292(292)"/>
+    <SubModule name="u_ddr3" Register="3618" Alu="124" Lut="2137" Bsram="4" Ssram="137" T_Register="3618(3618)" T_Alu="124(124)" T_Lut="2137(2137)" T_Bsram="4(4)" T_Ssram="137(137)"/>
+</Module>

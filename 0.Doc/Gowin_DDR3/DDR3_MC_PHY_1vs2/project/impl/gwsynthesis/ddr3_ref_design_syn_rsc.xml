@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="ddr3_syn_top" Register="26" Lut="57" T_Register="2123(26)" T_Alu="135(0)" T_Lut="2047(57)" T_Bsram="14(0)" T_Ssram="46(0)">
+ <SubModule name="u_rd" Register="123" Alu="32" Lut="230" T_Register="123(123)" T_Alu="32(32)" T_Lut="230(230)"/>
+ <SubModule name="pll"/>
+ <SubModule name="gw_gao_inst_0" Register="924" Alu="13" Lut="569" Bsram="10" T_Register="924(924)" T_Alu="13(13)" T_Lut="569(569)" T_Bsram="10(10)"/>
+ <SubModule name="u_ddr3" Register="1050" Alu="90" Lut="1191" Bsram="4" Ssram="46" T_Register="1050(1050)" T_Alu="90(90)" T_Lut="1191(1191)" T_Bsram="4(4)" T_Ssram="46(46)"/>
+</Module>

@@ -1,0 +1,8 @@
+F:/FPGA/GW2A-LC-LogicsPI/2.Soft/0.Template/Sim/Template_Sim.v {1 {vlog -work Template_Sim_Project -vopt -stats=none F:/FPGA/GW2A-LC-LogicsPI/2.Soft/0.Template/Sim/Template_Sim.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module led_light_mod
+
+Top level modules:
+	led_light_mod
+
+} {} {}}
